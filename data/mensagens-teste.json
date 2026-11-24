@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "usuario": "Rhuan",
+    "texto": "Primeira mensagem salva no disco!"
+  },
+  {
+    "id": 2,
+    "usuario": "Ana",
+    "texto": "Segunda mensagem no arquivo JSON."
+  }
+]
